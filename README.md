@@ -1,1 +1,1 @@
-# diamond2.0
+# diamondmanage
